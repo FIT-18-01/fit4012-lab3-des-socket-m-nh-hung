@@ -17,12 +17,12 @@ Bài lab bám theo luồng hệ thống trong file hướng dẫn: Sender tạo 
 
 ## Task division
 - **Thành viên 1 phụ trách chính**: sender.py, tests, logs, threat-model-1page.md
-- **Thành viên 2 phụ trách chính**: TODO_ROLE_MEMBER_2
+- **Thành viên 2 phụ trách chính**: receiver.py, report-1page.md, peer-review-response.md
 - **Phần làm chung**: des_socket_utils.py, README.md, demo chạy thật, review chéo
 
 ## Demo roles
 - **Bạn nào demo Sender / gói tin / log gửi**: Bùi Đình Mạnh
-- **Bạn nào demo Receiver / giải mã / log nhận**: TODO_DEMO_ROLE_2
+- **Bạn nào demo Receiver / giải mã / log nhận**: Phạm Ngọc Hùng
 - **Cả hai cùng trả lời threat model và ethics**: Bùi Đình Mạnh và Phạm Ngọc Hùng
 
 ## Mục tiêu học tập
