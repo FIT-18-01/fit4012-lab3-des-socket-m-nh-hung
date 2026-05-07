@@ -13,7 +13,7 @@ Bài lab bám theo luồng hệ thống trong file hướng dẫn: Sender tạo 
 
 ## Team members
 - **Thành viên 1**: Bùi Đình Mạnh - MSSV: 1871020379
-- **Thành viên 2**: TODO_MEMBER_2 - MSSV: TODO_MEMBER_2_ID
+- **Thành viên 2**: Phạm Ngọc Hùng - MSSV: 1871020265
 
 ## Task division
 - **Thành viên 1 phụ trách chính**: sender.py, tests, logs, threat-model-1page.md
